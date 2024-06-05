@@ -44,8 +44,8 @@
     
 }
 .sec2content>img{
-    height: 23vw;
-    width: 29vw;
+    height: 18vw;
+    width: 23vw;
     object-fit: fill;
     margin: 0 5vw;
     border-radius: 2vw;
@@ -80,7 +80,7 @@
     font-style: normal;
     font-weight: 500;
     font-size: 1.2em;
-    line-height: 30px;
+    line-height: 24px;
     color: var(--element-color);
 
 }
